@@ -1,4 +1,4 @@
-package com.bryant.cryptotracker.util
+package com.bryant.cryptotracker.core.domain.util
 
 typealias DomainError = Error
 

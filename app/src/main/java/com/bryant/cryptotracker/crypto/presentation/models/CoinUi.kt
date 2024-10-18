@@ -3,7 +3,7 @@ package com.bryant.cryptotracker.crypto.presentation.models
 import android.icu.text.NumberFormat
 import androidx.annotation.DrawableRes
 import com.bryant.cryptotracker.crypto.domain.Coin
-import com.bryant.cryptotracker.util.getDrawableIdForCoin
+import com.bryant.cryptotracker.core.presentation.util.getDrawableIdForCoin
 import java.util.Locale
 
 data class CoinUi(
